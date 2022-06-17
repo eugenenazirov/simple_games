@@ -1,6 +1,6 @@
 # simple_games
 
-Welcome to Simple Games repo.
+Welcome to Simple Games repo, guys!
 There are simple games that I made using Python, when I study the EngineerSpock course on Udemy.
 
 I started coding on March 2022 and this is my first Python code projects.
